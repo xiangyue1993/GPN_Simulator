@@ -1,0 +1,23 @@
+{    
+    "configurations": [
+            {
+                "name": "MinGW",
+                "intelliSenseMode": "clang-x64",
+                "compilerPath": "E:/Programming/LLVM/bin/gcc.exe",
+                "includePath": [
+                    "${workspaceFolder}/include/"
+                ],
+                "defines": [],
+                "browse": {
+                    "path": [
+                        "${workspaceFolder}/include/"
+                    ],
+                    "limitSymbolsToIncludedHeaders": true,
+                    "databaseFilename": ""
+                },
+                "cStandard": "c11",
+                "cppStandard": "c++17"
+            }
+        ],
+        "version": 4
+}
